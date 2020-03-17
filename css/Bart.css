@@ -1,0 +1,83 @@
+/* extra css */
+
+/* opmaak footer */
+
+.footer {
+	background-color: #002142;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 40px ;
+	padding-right: 40px;
+}
+
+.footer ul {
+	list-style-type: none;
+	
+}
+
+.footer #footertext {
+	font-size: medium;
+	padding-top: 25px;
+}
+
+.float {
+	float: left;
+}
+
+.footer .float {
+	float: left;
+	margin-left: 0px;
+	width: 373px;
+}
+
+.footer a, .footer a:link, .footer a:visited, .footer a:hover, .footer a:active {
+	color: white;
+}
+
+.footer a:hover {
+	color:#B2000E;
+}
+
+.midden-tekst {
+	text-align: center;
+	font-size: x-large;
+	margin-top: 70px !important;
+}
+
+.align-right-contact {
+	float: left;
+	margin-left: 500px;
+	margin-top: 50px;
+}
+
+.align-right {
+	float: right;
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+.align-left {
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 10px;
+}
+
+.email a, .email a:link, .email a:visited, .email a:active, .email a:hover{
+	color: #002142;
+	text-decoration: underline;
+}
+
+.email a:hover {
+	color: #B2000E;
+}
+
+.pagina-naam {
+	color: #B2000E;
+	font-weight: 250;
+    font-size: 46px;
+}
+
+.pagina-tekst {
+	color:#000000;
+	font-size:16px;
+}
