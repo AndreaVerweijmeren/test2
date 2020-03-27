@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {box-sizing: border-box}
+
+body {
+	background-color:#7B94AD;
+	margin-top: 25px;
+	padding: 20px;
+}
+
+.imgcontainer {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+.container {
+	text-align: center;
+}
+
+
+.bt1 {
+	background-color: #ABC4DF;
+	border-color: #728D9E;
+	font-family: lato;
+}
+
+.bt2 {
+	background-color: #e28f7c;
+	border-color: #6D5A55;
+	font-family: lato;
+}
+
+a {
+	color: white;
+}
+
+/* Set a style for all buttons */
+button {
+	color: white;
+	cursor: pointer;
+	border: solid;
+}
+
+
+button:hover {
+ 	opacity: 0.8;
+}
+
+.cancelbtn {
+	width: 90%;
+ 	padding: 10px 18px;
+  	margin-bottom: 20px;
+}
+
+p {
+	margin-top: 120px;
+ 	text-align: center;
+}
+
+a:hover {
+	color: #4D667E;
+}
+
