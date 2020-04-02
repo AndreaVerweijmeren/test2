@@ -3,7 +3,6 @@
 
 body {
 	background-color:#7B94AD;	
-	
 }
 
 h1 {
@@ -30,15 +29,6 @@ a:hover {
 p {
     font-family: "Lato";
     margin-left: 10px;	
-}
-
-img {
-	margin-left: 2px;
-	margin-bottom: 2px;
-}
-
-.intro {
-	padding: 20px;
 }
 
 

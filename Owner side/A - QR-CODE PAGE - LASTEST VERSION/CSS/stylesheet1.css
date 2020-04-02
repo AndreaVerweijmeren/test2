@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	background-color:#7B94AD
+	background-color: #b2dfdb;
 }
 
 h2 {
@@ -24,7 +24,7 @@ a {
   color: white;
   padding: 14px 28px;
   cursor: pointer;
-  background: #f5b0af;
+  background: #82ada9;
   font-family: "Roboto Medium";
 }
 
@@ -53,7 +53,7 @@ a {
 
 
 .boxes ul a:hover {
-	background-color: #AB5C59;
+	background-color: #e28f7c;
 }
 
 .logo {
@@ -92,7 +92,6 @@ span {
 }
 
 .btn {
-	font-family: "Lato Regular";
 	margin: 10px;
     text-decoration: none;
   	padding: 12px 30px;
@@ -113,7 +112,7 @@ p {
   text-align: center;
   padding: 30px;
   color: white;
-  font-family: "Lato Regular";
+  font-family: lato;
 }
 
 
@@ -122,16 +121,16 @@ p {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #4D667E;
+  background-color: ;
 }
 
 .btn-primary:active {
-  background: #4D667E;
+  
  
 }
 
 .btn-primary:hover{
-	background: #f5b0af;
+background-color: #e28f7c;
 }
 
 p {

@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#B2DFDB;
+
+		
+}
+
+h1 {
+    font-family: "Roboto Medium";
+    margin-left: 10px;	
+}
+
+h2 {
+    font-family: "Roboto Medium";
+    font-size: large;
+    color: #000000;
+}
+
+a {
+   
+    color: #FFFFFF;
+}
+
+a:hover {color: #FFFFFF;
+	text-decoration: none;
+}
+
+p {
+    font-family: "Lato";
+    margin-left: 10px;	
+}
+
+
+article {
+	margin-bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
